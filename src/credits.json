@@ -1,0 +1,122 @@
+[
+  {
+    "slot": "hero",
+    "photo": "https://unsplash.com/photos/a-living-room-filled-with-furniture-and-a-large-window-x3mSC1WnWhc",
+    "photographer": "Spacejoy",
+    "profile": "https://unsplash.com/@spacejoy"
+  },
+  {
+    "slot": "svc-residential",
+    "photo": "https://unsplash.com/photos/12WFO8yWrsw",
+    "photographer": "Caroline Badran",
+    "profile": "https://unsplash.com/@___atmos"
+  },
+  {
+    "slot": "svc-hospitality",
+    "photo": "https://unsplash.com/photos/jHyxPnJTvIQ",
+    "photographer": "Cody Chan",
+    "profile": "https://unsplash.com/@cceee"
+  },
+  {
+    "slot": "svc-workplace",
+    "photo": "https://unsplash.com/photos/B74lBYC3PXI",
+    "photographer": "Caroline Badran",
+    "profile": "https://unsplash.com/@___atmos"
+  },
+  {
+    "slot": "svc-materials",
+    "photo": "https://unsplash.com/photos/pdCTX1harH4",
+    "photographer": "Karolina Grabowska",
+    "profile": "https://unsplash.com/@kaboompics"
+  },
+  {
+    "slot": "svc-turnkey",
+    "photo": "https://unsplash.com/photos/GEtu7WhqU2M",
+    "photographer": "Warren Hansen",
+    "profile": "https://unsplash.com/@hansen_pix"
+  },
+  {
+    "slot": "svc-dusk",
+    "photo": "https://unsplash.com/photos/KD_o-Ml2F_w",
+    "photographer": "Bilal Mansuri",
+    "profile": "https://unsplash.com/@itsbilalmn"
+  },
+  {
+    "slot": "bedroom",
+    "photo": "https://unsplash.com/photos/modern-bedroom-with-white-upholstered-bed-RUvW1KGD9a4",
+    "photographer": "Spacejoy",
+    "profile": "https://unsplash.com/@spacejoy"
+  },
+  {
+    "slot": "dining",
+    "photo": "https://unsplash.com/photos/a-dimly-lit-room-with-tables-and-chairs-Mxy87tWuMVE",
+    "photographer": "Justin Smith",
+    "profile": "https://unsplash.com/@jsmith_txs"
+  },
+  {
+    "slot": "cafe",
+    "photo": "https://unsplash.com/photos/a-restaurant-with-a-lot-of-tables-and-chairs-ZEfHrVDF3NM",
+    "photographer": "Mustafa Fatemi",
+    "profile": "https://unsplash.com/@solaticace"
+  },
+  {
+    "slot": "office",
+    "photo": "https://unsplash.com/photos/a-large-conference-room-with-a-long-table-and-chairs-bEBLQQPhqi8",
+    "photographer": "Hammer Group",
+    "profile": "https://unsplash.com/@hammergroup"
+  },
+  {
+    "slot": "villa",
+    "photo": "https://unsplash.com/photos/modern-white-villa-with-swimming-pool-Id7u0EkTjBE",
+    "photographer": "John Fornander",
+    "profile": "https://unsplash.com/@johnfo"
+  },
+  {
+    "slot": "penthouse",
+    "photo": "https://unsplash.com/photos/infinity-pool-overlooking-city-skyline-at-dusk--RWieW0kJ1E",
+    "photographer": "Aalo Lens",
+    "profile": "https://unsplash.com/@aalolens"
+  },
+  {
+    "slot": "detail",
+    "photo": "https://unsplash.com/photos/a-white-vase-sitting-on-top-of-a-table-uluH5a0sRdw",
+    "photographer": "Mary Skrynnikova 💛💙",
+    "profile": "https://unsplash.com/@mary_skr"
+  },
+  {
+    "slot": "material-stone",
+    "photo": "https://unsplash.com/photos/a-close-up-of-a-grey-surface-ZSZClcM0qWQ",
+    "photographer": "Content Pixie",
+    "profile": "https://unsplash.com/@contentpixie"
+  },
+  {
+    "slot": "material-nero",
+    "photo": "https://unsplash.com/photos/a-close-up-of-a-black-marble-surface-osuiatBDTww",
+    "photographer": "Annie Spratt",
+    "profile": "https://unsplash.com/@anniespratt"
+  },
+  {
+    "slot": "team-1",
+    "photo": "https://unsplash.com/photos/a-black-and-white-photo-of-a-woman-in-a-suit-N3KUeEzHkMM",
+    "photographer": "Ivan Kazlouskij",
+    "profile": "https://unsplash.com/@ivankazlouskij"
+  },
+  {
+    "slot": "team-2",
+    "photo": "https://unsplash.com/photos/a-woman-in-a-blue-dress-posing-for-a-picture-7oMpkXrMCmw",
+    "photographer": "Oludemilade Aremu",
+    "profile": "https://unsplash.com/@king_remus"
+  },
+  {
+    "slot": "team-3",
+    "photo": "https://unsplash.com/photos/man-working-on-architectural-model-at-desk-WUY0W2RSiBw",
+    "photographer": "GN Group",
+    "profile": "https://unsplash.com/@gnhearingglobal"
+  },
+  {
+    "slot": "team-4",
+    "photo": "https://unsplash.com/photos/man-wearing-black-blazer-D-8XODEIr_s",
+    "photographer": "Paolo Bendandi",
+    "profile": "https://unsplash.com/@paolobendandi"
+  }
+]
